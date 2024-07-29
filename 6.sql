@@ -1,0 +1,5 @@
+REVOKE ALL ON TABLE Books FROM martin;
+
+GRANT SELECT ON TABLE BooKS TO martin
+
+
